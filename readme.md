@@ -1,6 +1,6 @@
 # PhpRedis Windows Release
 
-PhpRedis Pre-complied binary DLL for windows
+PhpRedis extension pre-complied binary DLL for windows. PHP 8.0/8.1/8.2/8.3 + PhpRedis 5.3.7/6.0.2 is Ready. 
 
 ## Links
 
@@ -14,5 +14,5 @@ PhpRedis Pre-complied binary DLL for windows
 
 | PhpRedis | PHP 8.0 | PHP 8.1 | PHP 8.2 | PHP 8.3 |
 | :-: | :-: | :-: | :-: | :-: |
-| 6.0.2 | x | x | x | x |
-| 5.3.7 | OK | x | x | x |
+| 6.0.2 | OK | OK | OK | OK |
+| 5.3.7 | OK | OK | OK | OK |
