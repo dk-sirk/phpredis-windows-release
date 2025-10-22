@@ -12,7 +12,7 @@ PhpRedis extension pre-complied binary DLL for windows. PHP 8.5 + PhpRedis 6.2.0
 
 ## Release Status
 
-| PhpRedis | PHP 8.0 | PHP 8.1 | PHP 8.2 | PHP 8.3 | PHP 8.4 | PHP 8.5 a1 | PHP 8.5 b2 | PHP 8.5 rc1 |
+| PhpRedis | PHP 8.0 | PHP 8.1 | PHP 8.2 | PHP 8.3 | PHP 8.4 | PHP 8.5 a1/a2 | PHP 8.5 b1/b2 | PHP 8.5 rc1/rc2/rc3 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6.2.0 | / | / | / | / | / | OK | OK | OK |
 | 6.1.0 | / | / | / | / | OK | / | / | / |
