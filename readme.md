@@ -15,7 +15,7 @@ PhpRedis extension pre-complied binary DLL for windows. PHP 8.0 / 8.1 / 8.2 / 8.
 ### PhpRedis 6.3.0
 | PHP | PECL | THIS PROJECT |
 |:-:|:-:|:-|
-| 8.5 | / | [PhpRedis 6.3.0 rc + PHP 8.5 rc](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.3.0rc1-php-8.5.0rc3) |
+| 8.5 | / | [PhpRedis 6.3.0 + PHP 8.5 rc](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.3.0-php-8.5.0rc4)<br>[PhpRedis 6.3.0 rc + PHP 8.5 rc](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.3.0rc1-php-8.5.0rc3) |
 | 8.4 | [pecl](https://pecl.php.net/package/redis/6.3.0/windows) | [PhpRedis 6.3.0 rc + PHP 8.4](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.3.0rc1-php-8.4.14) |
 | 8.3 | [pecl](https://pecl.php.net/package/redis/6.3.0/windows) | [PhpRedis 6.3.0 rc + PHP 8.3](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.3.0rc1-php-8.3.27) |
 | 8.2 | [pecl](https://pecl.php.net/package/redis/6.3.0/windows) | [PhpRedis 6.3.0 rc + PHP 8.2](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.3.0rc1-php-8.2.29) |
