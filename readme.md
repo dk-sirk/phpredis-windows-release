@@ -21,6 +21,7 @@ PhpRedis extension pre-complied binary DLL for windows. PHP 8.0 / 8.1 / 8.2 / 8.
 | 8.2 | [pecl](https://pecl.php.net/package/redis/6.3.0/windows) | [PhpRedis 6.3.0 rc + PHP 8.2](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.3.0rc1-php-8.2.29) |
 | 8.1 | [pecl](https://pecl.php.net/package/redis/6.3.0/windows) | [PhpRedis 6.3.0 rc + PHP 8.1](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.3.0rc1-php-8.1.33) |
 | 8.0 | [pecl](https://pecl.php.net/package/redis/6.3.0/windows) | [PhpRedis 6.3.0 rc + PHP 8.0](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.3.0rc1-php-8.0.30) |
+| 7.4 | [pecl](https://pecl.php.net/package/redis/6.3.0/windows) | / |
 
 ### PhpRedis 6.2.0
 | PHP | PECL | THIS PROJECT |
@@ -31,6 +32,7 @@ PhpRedis extension pre-complied binary DLL for windows. PHP 8.0 / 8.1 / 8.2 / 8.
 | 8.2 | [pecl](https://pecl.php.net/package/redis/6.2.0/windows) | / |
 | 8.1 | [pecl](https://pecl.php.net/package/redis/6.2.0/windows) | / |
 | 8.0 | [pecl](https://pecl.php.net/package/redis/6.2.0/windows) | / |
+| 7.4 | [pecl](https://pecl.php.net/package/redis/6.2.0/windows) | / |
 
 ### PhpRedis 6.1.0
 |PHP| PECL | THIS PROJECT |
@@ -41,19 +43,26 @@ PhpRedis extension pre-complied binary DLL for windows. PHP 8.0 / 8.1 / 8.2 / 8.
 | 8.2 | [pecl](https://pecl.php.net/package/redis/6.1.0/windows) | / |
 | 8.1 | [pecl](https://pecl.php.net/package/redis/6.1.0/windows) | / |
 | 8.0 | [pecl](https://pecl.php.net/package/redis/6.1.0/windows) | / |
+| 7.4 | [pecl](https://pecl.php.net/package/redis/6.1.0/windows) | / |
 
 ### PhpRedis 6.0.2
 |PHP| PECL | THIS PROJECT |
 |:-:|:-:|:-|
+| 8.5 | / | / |
+| 8.4 | / | / |
 | 8.3 | [pecl](https://pecl.php.net/package/redis/6.0.2/windows) | [PhpRedis 6.0.2 + PHP 8.3](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.0.2-php-8.3) |
 | 8.2 | [pecl](https://pecl.php.net/package/redis/6.0.2/windows) | [PhpRedis 6.0.2 + PHP 8.2](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.0.2-php-8.2) |
 | 8.1 | [pecl](https://pecl.php.net/package/redis/6.0.2/windows) | [PhpRedis 6.0.2 + PHP 8.1](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.0.2-php-8.1) |
 | 8.0 | [pecl](https://pecl.php.net/package/redis/6.0.2/windows) | [PhpRedis 6.0.2 + PHP 8.0](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-6.0.2-php-8.0) |
+| 7.4 | / | / |
 
 ### PhpRedis 5.3.7
 |PHP| PECL | THIS PROJECT |
 |:-:|:-:|:-|
+| 8.5 | / | / |
+| 8.4 | / | / |
 | 8.3 | / | [PhpRedis 5.3.7 + PHP 8.3](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-5.3.7-php-8.3) |
 | 8.2 | / | [PhpRedis 5.3.7 + PHP 8.2](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-5.3.7-php-8.2) |
 | 8.1 | [pecl](https://pecl.php.net/package/redis/5.3.7/windows) | [PhpRedis 5.3.7 + PHP 8.1](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-5.3.7-php-8.1) |
 | 8.0 | [pecl](https://pecl.php.net/package/redis/5.3.7/windows) | [PhpRedis 5.3.7 + PHP 8.0](https://github.com/dk-sirk/phpredis-windows-release/releases/tag/php_redis-5.3.7-php-8.0) |
+| 7.4 | [pecl](https://pecl.php.net/package/redis/5.3.7/windows) | / |
